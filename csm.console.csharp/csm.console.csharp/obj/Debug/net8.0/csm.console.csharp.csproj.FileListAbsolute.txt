@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\csm.console.csharp\bin\Debug\net8.0\csm.console.csharp.exe
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\csm.console.csharp\bin\Debug\net8.0\csm.console.csharp.deps.json
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\csm.console.csharp\bin\Debug\net8.0\csm.console.csharp.runtimeconfig.json
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\csm.console.csharp\bin\Debug\net8.0\csm.console.csharp.dll
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\csm.console.csharp\bin\Debug\net8.0\csm.console.csharp.pdb
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\csm.console.csharp\obj\Debug\net8.0\csm.console.csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\csm.console.csharp\obj\Debug\net8.0\csm.console.csharp.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\csm.console.csharp\obj\Debug\net8.0\csm.console.csharp.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\csm.console.csharp\obj\Debug\net8.0\csm.console.csharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\csm.console.csharp\obj\Debug\net8.0\csm.console.csharp.sourcelink.json
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\csm.console.csharp\obj\Debug\net8.0\csm.console.csharp.dll
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\csm.console.csharp\obj\Debug\net8.0\refint\csm.console.csharp.dll
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\csm.console.csharp\obj\Debug\net8.0\csm.console.csharp.pdb
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\csm.console.csharp\obj\Debug\net8.0\csm.console.csharp.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\csm.console.csharp\obj\Debug\net8.0\ref\csm.console.csharp.dll

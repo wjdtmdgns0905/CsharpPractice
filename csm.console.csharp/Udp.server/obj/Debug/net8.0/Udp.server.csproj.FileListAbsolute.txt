@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\Udp.server\bin\Debug\net8.0\Udp.server.exe
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\Udp.server\bin\Debug\net8.0\Udp.server.deps.json
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\Udp.server\bin\Debug\net8.0\Udp.server.runtimeconfig.json
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\Udp.server\bin\Debug\net8.0\Udp.server.dll
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\Udp.server\bin\Debug\net8.0\Udp.server.pdb
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\Udp.server\obj\Debug\net8.0\Udp.server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\Udp.server\obj\Debug\net8.0\Udp.server.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\Udp.server\obj\Debug\net8.0\Udp.server.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\Udp.server\obj\Debug\net8.0\Udp.server.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\Udp.server\obj\Debug\net8.0\Udp.server.sourcelink.json
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\Udp.server\obj\Debug\net8.0\Udp.server.dll
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\Udp.server\obj\Debug\net8.0\refint\Udp.server.dll
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\Udp.server\obj\Debug\net8.0\Udp.server.pdb
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\Udp.server\obj\Debug\net8.0\Udp.server.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\CsharpPractice\csm.console.csharp\Udp.server\obj\Debug\net8.0\ref\Udp.server.dll
