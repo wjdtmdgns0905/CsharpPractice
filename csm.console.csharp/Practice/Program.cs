@@ -15,7 +15,7 @@ namespace Practice
 
         static void Main(string[] args)
         {
-            BinarySearch.Solution();
+            Dijkstra.Solution();
         }
     }
 

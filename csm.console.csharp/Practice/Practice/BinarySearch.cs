@@ -15,7 +15,6 @@ namespace Practice.Practice
 
         }
 
-
         static int UpperBound(List<int> list, int key)
         {
             
@@ -54,32 +53,32 @@ namespace Practice.Practice
 
 
             int s = 0;
-            int e = list.Count - 1;
-
-            int mid = (s + e) / 2;
+            int e = list.Count;
 
 
-            while (list[mid] != key)
+            while (s<e)
             {
-                if (list[mid] > key)
+                int mid = (s + e) / 2;
+
+                if (list[mid] >= key)
                 {
-                    e = mid - 1;
+                    e = mid;
                 }
                 else
                 {
-                    e = mid + 1;
+                    s = mid + 1;
                 }
 
-                mid = (s + e) / 2;
             }
 
-
-            while (list[mid] == list[mid - 1])
+            if( s== list.Count)
             {
-                mid--;
+                return -1;
             }
-
-            return mid;
+            else
+            {
+                return s;
+            }
         }
 
 

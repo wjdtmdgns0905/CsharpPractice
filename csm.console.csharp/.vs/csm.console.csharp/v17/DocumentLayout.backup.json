@@ -3,40 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\practice\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|solutionrelative:practice\\practice\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\practice\\dijkstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|solutionrelative:practice\\practice\\dijkstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|solutionrelative:practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\practice\\2667.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|solutionrelative:practice\\practice\\2667.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\practice\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|solutionrelative:practice\\practice\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\practice\\bfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|solutionrelative:practice\\practice\\bfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\practice\\practice3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|solutionrelative:practice\\practice\\practice3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\practice\\recursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|solutionrelative:practice\\practice\\recursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\practice\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|solutionrelative:practice\\practice\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\practice\\bj2667.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|solutionrelative:practice\\practice\\bj2667.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\practice\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|solutionrelative:practice\\practice\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\practice\\bj2178.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|solutionrelative:practice\\practice\\bj2178.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\practice\\bj1697.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|solutionrelative:practice\\practice\\bj1697.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\practice\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|solutionrelative:practice\\practice\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\practice\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|solutionrelative:practice\\practice\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\practice\\recursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|solutionrelative:practice\\practice\\recursion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\practice\\practice3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|solutionrelative:practice\\practice\\practice3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\practice\\bfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|solutionrelative:practice\\practice\\bfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\practice\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|solutionrelative:practice\\practice\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFD79286-0F77-4561-AF46-FA3B302C8527}|Practice\\Practice.csproj|c:\\users\\user\\documents\\github\\csharppractice\\csm.console.csharp\\practice\\practice\\graph2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,31 +103,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BinarySearch.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\BinarySearch.cs",
-              "RelativeDocumentMoniker": "Practice\\Practice\\BinarySearch.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\BinarySearch.cs",
-              "RelativeToolTip": "Practice\\Practice\\BinarySearch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Title": "Dijkstra.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\Dijkstra.cs",
+              "RelativeDocumentMoniker": "Practice\\Practice\\Dijkstra.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\Dijkstra.cs",
+              "RelativeToolTip": "Practice\\Practice\\Dijkstra.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T06:49:52.722Z",
+              "WhenOpened": "2025-06-19T01:06:54.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "2667.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\2667.cs",
-              "RelativeDocumentMoniker": "Practice\\Practice\\2667.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\2667.cs",
-              "RelativeToolTip": "Practice\\Practice\\2667.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAALAAAAAAAAAA==",
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "Practice\\Practice\\BinarySearchTree.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\BinarySearchTree.cs",
+              "RelativeToolTip": "Practice\\Practice\\BinarySearchTree.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAowJIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T02:49:54.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BJ1697.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\BJ1697.cs",
+              "RelativeDocumentMoniker": "Practice\\Practice\\BJ1697.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\BJ1697.cs",
+              "RelativeToolTip": "Practice\\Practice\\BJ1697.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:18:11.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BJ2178.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\BJ2178.cs",
+              "RelativeDocumentMoniker": "Practice\\Practice\\BJ2178.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\BJ2178.cs",
+              "RelativeToolTip": "Practice\\Practice\\BJ2178.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T00:24:32.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BinarySearch.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\BinarySearch.cs",
+              "RelativeDocumentMoniker": "Practice\\Practice\\BinarySearch.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\BinarySearch.cs",
+              "RelativeToolTip": "Practice\\Practice\\BinarySearch.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:49:52.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BJ2667.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\BJ2667.cs",
+              "RelativeDocumentMoniker": "Practice\\Practice\\BJ2667.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\BJ2667.cs",
+              "RelativeToolTip": "Practice\\Practice\\BJ2667.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T06:10:19.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Fibonacci.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\Fibonacci.cs",
               "RelativeDocumentMoniker": "Practice\\Practice\\Fibonacci.cs",
@@ -129,13 +194,14 @@
               "RelativeDocumentMoniker": "Practice\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Program.cs",
               "RelativeToolTip": "Practice\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T00:20:56.484Z"
+              "WhenOpened": "2025-06-17T00:20:56.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "BFS.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\BFS.cs",
               "RelativeDocumentMoniker": "Practice\\Practice\\BFS.cs",
@@ -147,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Recursion.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\Recursion.cs",
               "RelativeDocumentMoniker": "Practice\\Practice\\Recursion.cs",
@@ -159,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Graph2.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\Graph2.cs",
               "RelativeDocumentMoniker": "Practice\\Practice\\Graph2.cs",
@@ -171,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Graph.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\Graph.cs",
               "RelativeDocumentMoniker": "Practice\\Practice\\Graph.cs",
@@ -183,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "QuickSort.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\QuickSort.cs",
               "RelativeDocumentMoniker": "Practice\\Practice\\QuickSort.cs",
@@ -195,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Udp.client\\Program.cs",
               "RelativeDocumentMoniker": "Udp.client\\Program.cs",
@@ -207,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Udp.server\\Program.cs",
               "RelativeDocumentMoniker": "Udp.server\\Program.cs",
@@ -219,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "csm.console.csharp.csproj",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\csm.console.csharp\\csm.console.csharp.csproj",
               "RelativeDocumentMoniker": "csm.console.csharp\\csm.console.csharp.csproj",
@@ -231,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "echo.server.csproj",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\echo.server\\echo.server.csproj",
               "RelativeDocumentMoniker": "echo.server\\echo.server.csproj",
@@ -243,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\echo.client\\Program.cs",
               "RelativeDocumentMoniker": "echo.client\\Program.cs",
@@ -255,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\echo.server\\Program.cs",
               "RelativeDocumentMoniker": "echo.server\\Program.cs",
@@ -267,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Practice3.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\Practice\\Practice\\Practice3.cs",
               "RelativeDocumentMoniker": "Practice\\Practice\\Practice3.cs",
@@ -279,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Temp.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\csm.console.csharp\\Temp.cs",
               "RelativeDocumentMoniker": "csm.console.csharp\\Temp.cs",
@@ -291,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\CsharpPractice\\csm.console.csharp\\csm.console.csharp\\Program.cs",
               "RelativeDocumentMoniker": "csm.console.csharp\\Program.cs",
